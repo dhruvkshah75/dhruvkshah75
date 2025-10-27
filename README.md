@@ -38,6 +38,6 @@ Here are the primary technologies I work with:
 
 ### 📫 How to Reach Me
 
-* **LinkedIn:** `https://www.linkedin.com/in/YOUR-USERNAME-HERE`
-* **Codeforces:** `https://codeforces.com/profile/YOUR_USERNAME_HERE`
-* **Email:** `youremail@example.com`
+* **LinkedIn:** `https://www.linkedin.com/in/dhruv-shah-31a136207/`
+* **Codeforces:** `https://codeforces.com/profile/dks75`
+* **Email:** `dhruvkshah75@gmail.com`

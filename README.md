@@ -31,7 +31,7 @@ Here are the primary technologies I work with:
 
 ### 📊 My GitHub Stats
 
-![Dhruv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhruvshah75&show_icons=true&theme=tokyonight)
+![Dhruv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhruvkshah75&show_icons=true&theme=tokyonight)
 
 ---
 

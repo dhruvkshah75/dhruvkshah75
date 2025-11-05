@@ -6,7 +6,7 @@ I'm a 2nd Year Computer Science student at **BITS Pilani, Goa Campus**, with a p
 
 ### 🚀 About Me
 
-* **💻 Competitive Programmer:** I actively participate in competitive programming on [Codeforces](https://codeforces.com/profile/YOUR_USERNAME_HERE).
+* **💻 Competitive Programmer:** I actively participate in competitive programming on [Codeforces](https://codeforces.com/profile/dhruvkshah75).
 * **🌱 My Goal:** I'm currently focused on becoming a backend developer, mastering how to build scalable and efficient systems.
 * **📚 What I'm Learning:**
     * Designing and building clean REST APIs.

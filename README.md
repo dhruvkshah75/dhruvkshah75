@@ -1,21 +1,22 @@
-### Hi there, I'm Dhruv! 👋
+### Hi there, I'm Dhruv! 
 
 I'm a 2nd Year Computer Science student at **BITS Pilani, Goa Campus**, with a passion for backend development and algorithms.
 
 ---
 
-### 🚀 About Me
+### About Me
 
-* **💻 Competitive Programmer:** I actively participate in competitive programming on [Codeforces](https://codeforces.com/profile/dhruvkshah75).
-* **🌱 My Goal:** I'm currently focused on becoming a backend developer, mastering how to build scalable and efficient systems.
-* **📚 What I'm Learning:**
+* **
+* **Competitive Programmer:** I actively participate in competitive programming on [Codeforces](https://codeforces.com/profile/dhruvkshah75).
+* **My Goal:** I'm currently focused on becoming a backend developer, mastering how to build scalable and efficient systems.
+* **What I'm Learning:**
     * Designing and building clean REST APIs.
     * Connecting to and querying databases like PostgreSQL.
     * Understanding system design fundamentals.
 
 ---
 
-### 💻 My Languages & Tools
+### My Languages & Tools
 
 Here are the primary technologies I work with:
 
@@ -30,7 +31,7 @@ Here are the primary technologies I work with:
 ---
 
 
-### 📫 How to Reach Me
+### How to Reach Me
 
 * **LinkedIn:** `https://www.linkedin.com/in/dhruv-shah-31a136207/`
 * **Codeforces:** `https://codeforces.com/profile/dks75`

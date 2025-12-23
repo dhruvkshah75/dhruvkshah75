@@ -1,5 +1,6 @@
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=FCC624)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=0078d7)
+![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3178C6)
 ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
 ![](https://img.shields.io/badge/Language-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=00599C)
 ![](https://img.shields.io/badge/Language-Go-informational?style=flat&logo=go&logoColor=white&color=00ADD8)
@@ -7,6 +8,7 @@
 <br>
 ![](https://img.shields.io/badge/Database-Redis-informational?style=flat&logo=redis&logoColor=white&color=DC382D)
 ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=336791)
-![](https://img.shields.io/badge/ORM-SQLAlchemy-informational?style=flat&logo=sqlalchemy&logoColor=white&color=2D3748)
+![](https://img.shields.io/badge/Runtime-Bun-informational?style=flat&logo=bun&logoColor=white&color=000000)
+![](https://img.shields.io/badge/Framework-ElysiaJS-informational?style=flat&logo=elysia&logoColor=white&color=7C3AED)
+![](https://img.shields.io/badge/ORM-Prisma-informational?style=flat&logo=prisma&logoColor=white&color=2D3748)
 ![](https://img.shields.io/badge/Framework-FastAPI-informational?style=flat&logo=fastapi&logoColor=white&color=009688)
-![](https://img.shields.io/badge/Container-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)

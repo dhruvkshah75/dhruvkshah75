@@ -8,7 +8,7 @@
 <br>
 ![](https://img.shields.io/badge/Database-Redis-informational?style=flat&logo=redis&logoColor=white&color=DC382D)
 ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=336791)
-![](https://img.shields.io/badge/Runtime-Bun-informational?style=flat&logo=bun&logoColor=white&color=000000)
-![](https://img.shields.io/badge/Framework-ElysiaJS-informational?style=flat&logo=elysia&logoColor=white&color=7C3AED)
+![](https://img.shields.io/badge/Runtime-Bun-informational?style=flat&logo=bun&logoColor=white&color=fbf0df)
+![](https://img.shields.io/badge/Framework-ElysiaJS-informational?style=flat&logo=elysia&logoColor=white&color=e01e5a)
 ![](https://img.shields.io/badge/ORM-Prisma-informational?style=flat&logo=prisma&logoColor=white&color=2D3748)
 ![](https://img.shields.io/badge/Framework-FastAPI-informational?style=flat&logo=fastapi&logoColor=white&color=009688)

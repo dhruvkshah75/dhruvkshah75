@@ -16,7 +16,7 @@ jobs:
       - name: 3D Isometric Calendar & Stats
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRIC_TOKEN }}
           
           # Options for the 3D graph
           base: header, activity, community, repositories, metadata

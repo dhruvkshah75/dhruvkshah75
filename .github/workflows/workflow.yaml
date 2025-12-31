@@ -1,0 +1,32 @@
+name: Metrics
+on:
+  # Schedule updates (every 12 hours)
+  schedule: [{cron: "0 */12 * * *"}]
+  # Allow manual trigger
+  workflow_dispatch:
+  # Push updates when you change the readme
+  push: {branches: ["master", "main"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: 3D Isometric Calendar & Stats
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          
+          # Options for the 3D graph
+          base: header, activity, community, repositories, metadata
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+
+          # Options for the stats summary
+          plugin_languages: yes
+          plugin_languages_sections: most-used
+          plugin_languages_details: percentage
+          
+          # Commit the result back to your repo
+          config_timezone: Asia/Kolkata

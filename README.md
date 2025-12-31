@@ -10,3 +10,6 @@
 ![](https://img.shields.io/badge/Runtime-Bun-informational?style=flat&logo=bun&logoColor=white&color=fbf0df)
 ![](https://img.shields.io/badge/ORM-Prisma-informational?style=flat&logo=prisma&logoColor=white&color=2D3748)
 ![](https://img.shields.io/badge/Framework-FastAPI-informational?style=flat&logo=fastapi&logoColor=white&color=009688)
+
+
+![GitHub Metrics](/github-metrics.svg)

@@ -11,16 +11,18 @@
 ![](https://img.shields.io/badge/ORM-Prisma-informational?style=flat&logo=prisma&logoColor=white&color=2D3748)
 ![](https://img.shields.io/badge/Framework-FastAPI-informational?style=flat&logo=fastapi&logoColor=white&color=009688)
 
-<table border="0">
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=dhruvkshah75&show_icons=true&theme=tokyonight&count_private=true" width="100%" />
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://streak-stats.demolab.com?user=dhruvkshah75&theme=tokyonight" width="100%" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" valign="top">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=dhruvkshah75&show_icons=true&theme=tokyonight&count_private=true" width="100%" />
+      </td>
+      <td width="50%" valign="top">
+        <img src="https://streak-stats.demolab.com?user=dhruvkshah75&theme=tokyonight" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 <details>

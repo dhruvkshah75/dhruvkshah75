@@ -11,5 +11,24 @@
 ![](https://img.shields.io/badge/ORM-Prisma-informational?style=flat&logo=prisma&logoColor=white&color=2D3748)
 ![](https://img.shields.io/badge/Framework-FastAPI-informational?style=flat&logo=fastapi&logoColor=white&color=009688)
 
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=dhruvkshah75&show_icons=true&theme=tokyonight&count_private=true" width="100%" />
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://streak-stats.demolab.com?user=dhruvkshah75&theme=tokyonight" width="100%" />
+    </td>
+  </tr>
+</table>
 
-![GitHub Metrics](/github-metrics.svg)
+
+<details>
+  <summary align="center">
+    <strong>Github Metrics</strong>
+  </summary>
+  <div align="center">
+    <br>
+    <img src="github-metrics.svg" alt="GitHub Metrics">
+  </div>
+</details>

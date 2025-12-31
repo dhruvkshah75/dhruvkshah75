@@ -22,11 +22,6 @@ jobs:
           base: header, activity, community, repositories, metadata
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
-
-          # Options for the stats summary
-          plugin_languages: yes
-          plugin_languages_sections: most-used
-          plugin_languages_details: percentage
           
           # Commit the result back to your repo
           config_timezone: Asia/Kolkata

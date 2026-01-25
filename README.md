@@ -10,9 +10,8 @@
 ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=336791)
 ![](https://img.shields.io/badge/Framework-FastAPI-informational?style=flat&logo=fastapi&logoColor=white&color=009688)
 
-![Github Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=dhruvkshah75&show_icons=true&theme=tokyonight&count_private=true)
-![Github Streak](https://streak-stats.demolab.com?user=dhruvkshah75&theme=tokyonight)
-
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhruvkshah75&count_private=true&show_icons=true&theme=vue&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvkshah75&layout=compact&hide=html,css,makefile)
 <br>
 
 <details>

@@ -11,7 +11,7 @@
 ![](https://img.shields.io/badge/Framework-FastAPI-informational?style=flat&logo=fastapi&logoColor=white&color=009688)
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhruvkshah75&count_private=true&show_icons=true&theme=vue&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvkshah75&layout=compact&hide=html,css,makefile)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvkshah75&layout=compact&hide=html,css,makefile,dockerfile,mako&size_weight=0.5&count_weight=0.5)
 <br>
 
 <details>

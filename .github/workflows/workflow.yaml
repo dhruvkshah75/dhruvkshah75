@@ -1,11 +1,7 @@
 name: Metrics
 on:
-  # Schedule updates (every 12 hours)
-  schedule: [{cron: "0 */12 * * *"}]
   # Allow manual trigger
   workflow_dispatch:
-  # Push updates when you change the readme
-  push: {branches: ["master", "main"]}
 
 jobs:
   github-metrics:

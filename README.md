@@ -8,4 +8,4 @@ interface Developer {
 }
 ```
 
-![PosterImage](./IMG_1178.png)
+![PosterImage](./IMG_1183.gif)

@@ -7,3 +7,5 @@ interface Developer {
   uptime:  19 * years;
 }
 ```
+
+![PosterImage](./IMG_1178.png)
